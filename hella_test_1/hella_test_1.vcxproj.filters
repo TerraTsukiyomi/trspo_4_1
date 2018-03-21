@@ -32,8 +32,5 @@
     <ClCompile Include="hella_test_1.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="hella_test_2.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
   </ItemGroup>
 </Project>
